@@ -1,0 +1,37 @@
+
+.margin {
+    border: 2px solid black
+}
+
+.margin-last {
+    border-bottom: none
+}
+
+.margin-left {
+    border-left: none
+}
+
+.margin-right {
+    border-right: none
+}
+
+.table {
+    border-top: 2px solid white;
+    width: 600px;
+    height: 400px;
+    margin-top: 10vh;
+    margin-left: 14vw
+}
+
+.pl-1 {
+    font-weight: 800
+}
+
+.pl-2 {
+    font-weight: 800
+}
+
+.active {
+    color: green;
+    background: yellowgreen
+}
